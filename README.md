@@ -22,16 +22,27 @@
 
 **************************************************************************************************************************
 :point_right:Uso
+
 :small_orange_diamond:Abre la página web en tu navegador.
+
 :small_orange_diamond:Selecciona el idioma de origen y destino en los menús desplegables.
+
 :small_orange_diamond:Escribe el texto que deseas traducir en el área de texto "Ingresa el texto a traducir".
+
 :small_orange_diamond:Haz clic en el botón "TRADUCIR".
+
 :small_orange_diamond:El resultado aparecerá en el área de texto "Resultado".
 
 :point_right:Contribución
+
 Si deseas contribuir a este proyecto, sigue los pasos a continuación:
+
 :small_orange_diamond:Haz un fork de este repositorio.
+
 :small_orange_diamond:Crea una nueva rama para tu característica o corrección de errores (git checkout -b feature/nueva-caracteristica).
+
 :small_orange_diamond:Haz commit de tus cambios (git commit -m 'Añadir nueva característica').
+
 :small_orange_diamond:Haz push a la rama (git push origin feature/nueva-caracteristica).
+
 :small_orange_diamond:Abre un Pull Request.
