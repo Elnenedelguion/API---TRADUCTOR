@@ -23,15 +23,17 @@
 **************************************************************************************************************************
 :point_right:How it works.
 
-:small_orange_diamond:Open your web page in your browser.
+:small_orange_diamond:Open the site in your browser.
 
 :small_orange_diamond:Choose source and target languages for translation.
 
-:small_orange_diamond:Input text in the textarea to translate.
+:small_orange_diamond:Input word or phrase you want to translate in the textarea.
 
-:small_orange_diamond:Click on the button "TRANSLATE".
+:small_orange_diamond:Click on the "TRANSLATE" button .
 
 :small_orange_diamond:Result shows in the textarea.
+
+<br>
 
 :point_right: Feel free to  contribute.
 
