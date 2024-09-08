@@ -1,48 +1,48 @@
-# API---TRADUCTOR
+# LANGUAGE TRANSLATOR
 
 ![tradcutor](https://github.com/user-attachments/assets/b9e58e42-b7b7-4872-ad5f-1aeebe10d222)
 *********************************************************************************************
 
-:point_right: Este es un proyecto web simple que permite traducir palabras de un idioma a otro utilizando una API de traducción. La interfaz está diseñada con Bootstrap y la funcionalidad de la traducción se maneja mediante JavaScript.
+:point_right: This is a simple web project that allows you to translate words from one language to another using a translation API. The interface is designed with Bootstrap, and the translation functionality is handled using JavaScript.
 
-## Características
+## Features
 
-- Selección de idioma de origen y destino para la traducción.
-- Entrada de texto para la palabra o frase que se desea traducir.
-- Resultado de la traducción mostrado en tiempo real.
-- Interfaz simple y fácil de usar, optimizada para la experiencia del usuario.
+- Selection of source and target languages for translation.
+- Text input for the word or phrase you want to translate.
+- Real-time display of the translation result.
+- Simple and user-friendly interface, optimized for user experience.
 
-## Tecnologías Utilizadas
+## Stack
 
-- **HTML5**: Para la estructura del sitio web.
-- **CSS3**: Para el diseño y el estilo del sitio, utilizando Bootstrap para facilitar el diseño responsivo.
-- **Bootstrap 4**: Para el diseño responsivo y los componentes preconstruidos.
-- **JavaScript**: Para la lógica del lado del cliente, incluyendo la interacción con la API de traducción.
-- **API de Traducción**: [api](https://text-translator2.p.rapidapi.com/getLanguages')
+- **HTML5**: For the website structure.
+- **CSS3**: For the site's design and styling, using Bootstrap to facilitate responsive design.
+- **Bootstrap 4**: For responsive design and pre-built components.
+- **JavaScript**:For client-side logic, including interaction with the translation API.
+- **Translation API**: [api](https://text-translator2.p.rapidapi.com/getLanguages')
 
 **************************************************************************************************************************
-:point_right:Uso
+:point_right:How it works.
 
-:small_orange_diamond:Abre la página web en tu navegador.
+:small_orange_diamond:Open your web page in your browser.
 
-:small_orange_diamond:Selecciona el idioma de origen y destino en los menús desplegables.
+:small_orange_diamond:Choose source and target languages for translation.
 
-:small_orange_diamond:Escribe el texto que deseas traducir en el área de texto "Ingresa el texto a traducir".
+:small_orange_diamond:Input text in the textarea to translate.
 
-:small_orange_diamond:Haz clic en el botón "TRADUCIR".
+:small_orange_diamond:Click on the button "TRANSLATE".
 
-:small_orange_diamond:El resultado aparecerá en el área de texto "Resultado".
+:small_orange_diamond:Result shows in the textarea.
 
-:point_right:Contribución
+:point_right: Feel free to  contribute.
 
-Si deseas contribuir a este proyecto, sigue los pasos a continuación:
+If you want to contribute to this project, follow the steps below:
 
-:small_orange_diamond:Haz un fork de este repositorio.
+:small_orange_diamond:Fork this repo.
 
-:small_orange_diamond:Crea una nueva rama para tu característica o corrección de errores (git checkout -b feature/nueva-caracteristica).
+:small_orange_diamond:Create a new branch  (git checkout -b feature/new-feature).
 
-:small_orange_diamond:Haz commit de tus cambios (git commit -m 'Añadir nueva característica').
+:small_orange_diamond:Commit your changes (git commit -m 'Add new feature').
 
-:small_orange_diamond:Haz push a la rama (git push origin feature/nueva-caracteristica).
+:small_orange_diamond:Push to the branch (git push origin feature/new-feature).
 
-:small_orange_diamond:Abre un Pull Request.
+:small_orange_diamond:Open a Pull Request.
